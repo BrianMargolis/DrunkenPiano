@@ -4,7 +4,7 @@
 /////////////////////////////////////////////////////////////////
 
 
-int numSensors = 3;
+int numSensors = 6;
 void setup() {
   Serial.begin(115200);
 }
